@@ -1,5 +1,6 @@
 package com.epam.mjc;
 
+import java.util.Objects;
 
 public class StudentManager {
 
